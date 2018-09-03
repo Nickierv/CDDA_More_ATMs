@@ -1,13 +1,13 @@
-This is a smallish mod desigend to fix the lack of ATMs in worlds with very small/highly spaced towns.
+This helps address cash card clutter and the lack of ATMs.
 
-ATMs are added anywhere you whould walk into at random and make a small purchace. This should make them findable but not so common you are tripping over them.
+ATMs are added anywhere you would walk into at random and make a small purchase. This should make them findable but not so common you are tripping over them.
 
 List of changes:
 Arcade
 Bar
 Bowling Alley
-Grocery0 - Its the one that diden't come with an ATM.
-Laundrymat
+Grocery0 - Its the one that didn’t come with an ATM.
+Laundromat
 Pizza parlor
 Fast food restaurant
 
