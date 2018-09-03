@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "More_ATMs",
+    "name": "More ATMs",
+    "authors": [ "Nickierv" ],
+    "description": "Adds more ATMs to the world.",
+    "category": "buildings",
+    "dependencies": [ "dda" ]
+  }
+]

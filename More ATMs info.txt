@@ -1,0 +1,16 @@
+This is a smallish mod desigend to fix the lack of ATMs in worlds with very small/highly spaced towns.
+
+ATMs are added anywhere you whould walk into at random and make a small purchace. This should make them findable but not so common you are tripping over them.
+
+List of changes:
+Arcade
+Bar
+Bowling Alley
+Grocery0 - Its the one that diden't come with an ATM.
+Laundrymat
+Pizza parlor
+Fast food restaurant
+
+Known bugs
+- Only about 1 in 3 buildings will spawn with the new ATM. This is still enough that a normal size 4 town will have three or four buildings with an ATM they normaly don't have. Likly due to code based map gen.
+- The fast food restaurant may have a bear trap on the ATM. Likly caused due to code based map gen.
